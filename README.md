@@ -1,5 +1,3 @@
 # inicial
-Repositorio inicial
+Repositorio inicial-VACIO
 
-
-ESTE ES UN MENSAJE PARA EL PUBLICO EN GENERAL!
